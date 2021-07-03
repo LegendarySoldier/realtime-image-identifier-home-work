@@ -1,0 +1,45 @@
+  .heading
+  {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    float: none;
+    background: #f0c400 ; 
+    padding: 10px;
+    border-radius: 20px; 
+    color: white;
+    box-shadow:8px 8px 8px dimgray;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:7px 7px 7px dimgray;
+    font-size: 20px;
+  }
+  .result_para_tag span
+  {
+    white-space: pre-line;
+  }
+ body{
+   background-image:url("beme.jpg");
+ }
+
+ canvas{
+   border:5px solid #f0c400;
+   border-radius: 5px 5px 5px dimgray;
+   margin-top: 160px;
+ }
+ /* .copy_right_footer{
+  background-color: #f0c400;
+  color: gray;
+  font-size: 20px;
+  padding: 5px;
+  margin-bottom: -500px;
+ } */
